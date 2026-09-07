@@ -1,14 +1,14 @@
 # 📊 Projetos - DIO
 
-## 📌 Sobre
 Repositório com os projetos práticos desenvolvidos durante minha trilha na DIOne.
 
-## 🛠️ Tecnologias
-- Microsoft Excel (Fórmulas, Tabelas Dinâmicas, Dashboards)
-- Análise de Dados
+##  Projetos
 
-##  Conteúdo
-- `Controle de Investimentos.xlsx`: Planilha de controle e acompanhamento de investimentos pessoais.
+- [Projeto IRPF](./projeto-irpf/)
+- [Controle de Investimentos](./controle-investimentos/)
+
+## 🛠️ Tecnologias
+- Excel
 
 ## 👩‍ Autor
 **Fernando** | [LinkedIn](https://www.linkedin.com/in/fernando-jorge-monteiro/)
