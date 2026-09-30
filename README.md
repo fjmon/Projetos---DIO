@@ -4,8 +4,9 @@ Repositório com os projetos práticos desenvolvidos durante minha trilha na DIO
 
 ##  Projetos
 
-- [Projeto IRPF](./projeto-irpf/)
-- [Controle de Investimentos](./controle-investimentos/)
+- [Projeto IRPF](./projeto%20irpf/)
+- [Controle de Investimentos](./Controle%20de%20Investimentos.xlsx)
+- [Projeto Dashboard de Vendas](./projeto%20vendas.xlsx)
 
 ## 🛠️ Tecnologias
 - Excel
